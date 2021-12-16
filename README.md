@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Staf3m
-- 👀 I’m interested in programming languages such us Pythonm, C, C++, JavaScripts, html, css
+- 👀 I’m interested in programming languages such us Python, C, C++, JavaScripts, html, css
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on bots, sites, programs
 - 📫 How to reach me: 1.Instagram - Staf3m; 2.Telegram - Staf3m, 3.Discord - Naumov#3964
